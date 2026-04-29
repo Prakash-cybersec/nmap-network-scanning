@@ -1,5 +1,7 @@
- nmap-network-scanning
+ nmap-network-scanning 
+ 
 Network scanning and analysis using Nmap
+
  🔐 Network Scanning & Analysis using Nmap
 
 📌 Overview
@@ -14,7 +16,7 @@ This project demonstrates how to scan a network using Nmap to find open ports an
 - Service Detection
 
 📸 Output
-(Screenshots uploaded in this repo)
+Screenshots uploaded in this repo
 
 🧠 Learning
 - Understood network scanning
@@ -24,4 +26,4 @@ This project demonstrates how to scan a network using Nmap to find open ports an
 Used only on authorized systems.
 
  👨‍💻 Author
-Prakash
+     :Prakash
